@@ -3,7 +3,7 @@
 ## [演示地址](https://www.xcccx.top/)
 
 ![效果图](https://imag.xcccx.top/uploads/2024/02/04/65bf14fceb865.png)
-
+![聊天记录](https://imag.xcccx.top/uploads/2024/02/05/65c09b63764ae.png)
 ## 如何使用？
 ```html
 
